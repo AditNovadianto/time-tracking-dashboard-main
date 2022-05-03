@@ -42,6 +42,7 @@ const App = () => {
               </div>
             </div>
           </div>
+
           <div className="bg-Dark-blue lg:w-[75%] w-full rounded-b-2xl mt-[135px] lg:mt-[290px] lg:leading-[45px] py-5 px-9">
             <div className="lg:flex-col lg:items-start mt-3 flex items-center justify-between">
               <button onClick={dailyButton}>
