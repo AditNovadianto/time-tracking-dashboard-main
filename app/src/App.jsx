@@ -85,5 +85,3 @@ const App = () => {
 };
 
 export default App;
-
-console.log("nyelesaiin gini doang 2 jam ancu amat");
